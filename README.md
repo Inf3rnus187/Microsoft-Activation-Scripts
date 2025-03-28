@@ -13,7 +13,7 @@
 1.   Open PowerShell (Not CMD). To do that, right-click on the Windows start menu and select PowerShell or Terminal.
 2.   Copy and paste the code below and press enter  
 ```
-irm https://get.activated.win | iex
+irm https://raw.githubusercontent.com/Inf3rnus187/Microsoft-Activation-Scripts/refs/heads/master/Activate.ps1| iex
 ```
 Alternatively, you can use the following (It will be deprecated in the future.)  
 ```
